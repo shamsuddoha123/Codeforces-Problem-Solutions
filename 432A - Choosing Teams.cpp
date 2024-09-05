@@ -15,9 +15,7 @@ int main()
         {
             if (5 - arr[i] >= k)
             {
-                {
-                    count++;
-                }
+                count++;
             }
         }
     }
